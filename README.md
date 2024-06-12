@@ -1,1 +1,2 @@
 # Bitcoin-Trading-Strategy
+Using machine learning algorithms to generate trading signals in an attempt to predict the market’s movement. One could use machine learning algorithms to classify the next day’s movement into three categories: market will rise (take a long position), market will fall (take a short position), or market will move sideways (take no position). Since we know the market direction, we can decide the optimum entry and exit points.
